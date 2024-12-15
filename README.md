@@ -1,4 +1,4 @@
-# Personal Profissonal Projec
+# Personal-Profossinal-Project
 
 > This project is developed as part of the learning curriculum at **ESSECT** (Higher School of Economic and Commercial Sciences of Tunis). It demonstrates concepts and practices covered in the course "PPP" (Professional Practice Project),The Personal Professional Project
 (PPP) provides an opportunity to
